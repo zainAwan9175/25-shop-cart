@@ -1,0 +1,24 @@
+.cartotal{
+ 
+ 
+    width: 250px;
+    margin-top: 40px;
+    
+}
+.sub{
+    display: flex;
+ 
+    justify-content: space-between;
+    border-bottom: 3px solid rgb(145, 136, 136);
+    
+}
+.order{
+    background-color:#ff4141;
+    border: 3px solid #ff4141;
+    border-radius:15px;
+    width: 150px;
+    color: antiquewhite;
+    padding: 6px;
+    cursor: pointer;
+    margin-top: 40px;
+}
